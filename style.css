@@ -3,3 +3,37 @@
     margin: 0;
     padding: 0;
 }
+body{
+    color: #fff;
+    background: #000;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Heading{
+    padding: 1rem;
+    margin: 2rem;
+    font-size: 4rem;
+}
+.Screen{
+    background: #000;
+    margin: 1rem;
+    padding: 0.1rem;
+    width: 20rem;
+    height: 6rem;
+    font-size: 5rem;
+    border: #fff solid 0.1rem;
+    color: #fff;
+}
+.Start-btn{
+    margin: 1rem;
+    padding: 1rem;
+    border: tan solid 0.1rem;
+    text-align: center;
+    width: 10rem;
+}
+.btn-text{
+    font-size: 2rem;
+}
