@@ -21,11 +21,12 @@ body{
     background: #000;
     margin: 1rem;
     padding: 0.1rem;
-    width: 20rem;
+    width: 80rem;
     height: 6rem;
-    font-size: 5rem;
+    font-size: 3rem;
     border: #fff solid 0.1rem;
     color: #fff;
+    text-align: center;
 }
 .Start-btn{
     margin: 1rem;
